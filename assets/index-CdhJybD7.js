@@ -2739,6 +2739,242 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
   </p>
 </div>
 `,xr=s({default:()=>Sr}),Sr=`<div class="post-meta">
+  <meta name="post-id" content="35" />
+  <meta name="post-title" content="벽이 무너지는 때" />
+  <meta name="post-published" content="2026-09-13T21:24" />
+  <meta name="post-tags" content="반도체, CXMT, 창신메모리테크놀로지" />
+</div>
+
+<div class="post-content">
+  <p>
+    2026년 7월 27일, 창신메모리테크놀로지(CXMT)가 상하이증권거래소에 상장했다.
+    첫날 종가는 공모가보다 465.82% 높았다. CXMT는 우리 몫을 얼마나 가져갔을까.
+    그리고 어디까지 가져갈 수 있을까.
+  </p>
+
+  <p>
+    글로벌 D램 매출 점유율에서 CXMT는 2025년 2분기에 4%였다. 2025년 4분기에 8%로
+    올라선 뒤 2026년 2분기 10%가 됐다. 1년 만에 2.5배다. 반대편에서 SK하이닉스는
+    같은 1년 동안 39%에서 25%로 내려갔다. 삼성전자 38%, 마이크론 24%를 더한 기존
+    3사의 몫은 87%다.
+  </p>
+
+  <p>
+    D램 월 웨이퍼 생산능력은 삼성전자가 66만 장, SK하이닉스가 55만 장이다.
+    CXMT는 30만 장으로 추정된다. 한국 두 회사를 합친 121만 장의 4분의 1이다.
+    CXMT는 이를 올해 말 35만 장, 2028년 말 50만 장으로 늘린다는 계획이다. 50만
+    장이면 SK하이닉스의 현재 규모에 육박한다.
+  </p>
+
+  <figure>
+    <img
+      src="/assets/columns/investment/35/dram_capacity_share.svg"
+      alt="D램 월 웨이퍼 생산능력은 삼성전자 66만 장, SK하이닉스 55만 장, CXMT 30만 장이며, 글로벌 D램 매출 점유율에서 한국 두 회사의 합은 1년 사이 72%에서 63%로 줄고 CXMT는 4%에서 10%로 늘었다"
+      width="800"
+    />
+    <figcaption>출처: 카운터포인트리서치, 모건스탠리 및 업계 추정</figcaption>
+  </figure>
+
+  <p>
+    물론 웨이퍼 장수가 물량은 아니다. 뒤처진 기술로 만들면 한 장에서 나오는 칩이
+    적고, 수율에서 한 번 더 깎인다. CXMT의 수율은 50% 안팎으로 알려져 있다.
+  </p>
+
+  <p>
+    기술격차는 전문가마다 다르게 말한다. 독립 반도체 분석가 앤드루 루는 CXMT의
+    D램 기술이 업계 주류보다 2~3년 뒤졌다고 본다. 권석준 성균관대 교수는 5년 전
+    3~4세대였던 격차가 최근 1~2세대로 좁혀졌고, 2030년대 후반에는 따라잡힐
+    가능성이 매우 높다고 말한다. 가장 크게 잡는 쪽은 SK하이닉스에서 26년간 D램
+    핵심기술을 맡았던 심대용 동아대 교수로, 5년 이상이며 오히려 더 벌어진다고
+    본다.
+  </p>
+
+  <p>
+    격차라는 것은 얼마나 작게 만드느냐다. D램은 셀 하나에 1비트를 담고, 16Gb 칩
+    하나에 그 셀이 170억 개 넘게 들어간다. 셀이 작으면 같은 170억 개가 더 좁은
+    면적에 들어가고, 칩이 작아지니 웨이퍼 한 장에서 더 많이 나온다. 같은 물건을
+    더 싸게 만들 수 있게 된다. 한국은 1c까지 왔고 CXMT는 그보다 두 세대 늦은
+    1a로 추정된다.
+  </p>
+
+  <p>
+    심 교수가 5년을 말하는 근거는 EUV다. 극자외선으로 미세한 무늬를 한 번에
+    찍어내는 노광장비로, 네덜란드 ASML이 독점하고 있다. 미국이 주도한 수출
+    통제로 중국에는 팔리지 않는다.
+  </p>
+
+  <p>
+    없다고 못 만드는 것은 아니다. 기존 장비로 여러 번 나누어 겹쳐 찍으면 된다.
+    공정 단계가 배로 늘고 겹칠 때마다 어긋남이 쌓여 수율이 떨어질 뿐이다. 수율이
+    낮다는 것은 불량이 많다는 뜻이지 나온 물건이 불량이라는 뜻은 아니다.
+  </p>
+
+  <p>
+    다만 이 방법에도 끝은 있다. 마이크론은 첨단 D램을 EUV 없이 만들어왔지만,
+    10나노 6세대에 와서는 제한적으로나마 EUV를 쓰기 시작했다. 한국식으로 1c다.
+    원가를 아끼려 가장 오래 버틴 쪽이 거기서 방침을 바꿨다. 거기서부터는 원가가
+    아닌 되고 안 되고의 문제인 것으로 보인다. 마이크론은 장비를 사면
+    그만이었지만 중국은 살 수 없다. 벽은 그렇게 세워져 있다.
+  </p>
+
+  <p>
+    벽 아래로 충분한 시장이 범용 D램이다. DDR5는 공정이 아니라 핀 배치와 전압과
+    명령 체계를 정해둔 약속이다. 두 세대 뒤진 칩은 최고 속도 등급을 뽑기 어렵고
+    전력을 조금 더 먹지만, 일반 PC와 보급형 서버가 쓰는 등급은 무리 없이 나온다.
+  </p>
+
+  <p>
+    지금 빼앗기고 있는 자리가 그곳이다. CXMT가 4%에서 10%로 올라오는 동안 EUV는
+    필요하지 않았다. 스마트폰과 일반 서버에 들어가는 D램은 100점이 필요하지
+    않다. 80점이면 팔리고, 물량으로 보면 그쪽이 시장의 대부분이다.
+  </p>
+
+  <p>
+    HBM은 다르다. 삼성전자는 HBM4에 1c를 쓴다. SK하이닉스는 HBM4까지 1b로 가다가
+    HBM4E부터 1c로 넘어간다. EUV 없이 버티던 마이크론도 HBM4E부터는 EUV를 쓴
+    1γ다. 2027년부터 나올 HBM은 세 회사 모두 벽 위에서 만든다. CXMT는
+    HBM3E까지다.
+  </p>
+
+  <p>
+    그런데 과거 낸드에서는 벽이 다르게 무너졌다. 2013년 업계는 16나노를 평면
+    낸드의 한계로 봤다. 더 좁히려면 겹쳐 찍는 횟수를 늘려야 했고 원가가 그만큼
+    나빠졌다. 그러나 삼성전자는 그해 8월 셀을 수직으로 24단 쌓은 3D 낸드를
+    양산하며, 앞으로 낸드는 최신 포토설비를 이용한 미세화 경쟁 대신 적층 수를
+    높이는 경쟁이 될 것이라고 했다.
+  </p>
+
+  <p>
+    이제 D램도 같은 갈림길에 서 있다. 삼성전자는 2030년 3D D램 상용화를
+    공식화했고, SK하이닉스의 로드맵에도 2030년 전후 3D D램이 들어 있다. 셀을
+    세로로 쌓기 시작하면 밀도는 무늬의 굵기가 아니라 층수에서 나온다. 마이크론
+    부사장을 지낸 박영욱 한양대 교수는 3D D램이 40~70나노 피치면 KrF로 되고,
+    선단이라 해도 ArF 드라이 장비면 된다고 본다. 그래서 CXMT가 10나노급 세대를
+    건너뛰고 3D로 직행할 수 있다고 말한다. 노광장비 수급이라는 아킬레스건에서
+    자유로워지기 때문이다. 그렇게 되면 격차는 남아도 벽은 사라진다.
+  </p>
+
+  <p>
+    지금은 AI 덕분에 꼭대기에 유례없는 값이 붙어 있어, 중국에 80점짜리 시장을
+    내주고도 장부가 사상 최대다. 그 값은 벽이 지켜주는 값이다. 벽이 무너지면
+    값도 내려간다. 그 전에 벌어둔 것으로 다른 싸움을 준비해야 한다. 벽이
+    무너지고 나면 내준 시장은 청구서로 돌아오고, 꼭대기는 더 이상 EUV가 지켜주지
+    않는다.
+  </p>
+
+  <p class="post-ref">
+    * 참조 <br />
+    카운터포인트리서치,
+    <a
+      href="https://korea.counterpointresearch.com/global-dram-and-hbm-market-share-quarterly/"
+      target="_blank"
+      >전세계 D램 및 HBM 시장 점유율: 분기별 데이터</a
+    ><br />
+    한국경제,
+    <a href="https://www.hankyung.com/article/202602056120i" target="_blank"
+      >"삼성전자, HBM4용 D램만 月12만장 규모 증설" (2026.02.05)</a
+    ><br />
+    디일렉,
+    <a
+      href="https://www.thelec.kr/news/articleView.html?idxno=57643"
+      target="_blank"
+      >"하이닉스, D램 월 100만장 시대 연다" (2026.06.05)</a
+    ><br />
+    뉴스핌,
+    <a href="https://www.newspim.com/news/view/20250311000826" target="_blank"
+      >"마이크론, 차세대 D램 선공… 삼성·SK, EUV 공정으로 장기 우위 확보할까"
+      (2025.03.11)</a
+    ><br />
+    ZDNet코리아,
+    <a href="https://zdnet.co.kr/view/?no=20250226085818" target="_blank"
+      >"마이크론, '6세대 10나노급' D램 샘플 공급…삼성·SK보다 빨랐다"
+      (2025.02.26)</a
+    ><br />
+    헤럴드경제,
+    <a href="https://biz.heraldcorp.com/article/10858231" target="_blank"
+      >"中 HBM, 韓 턱밑까지 왔다…CXMT 'HBM3E' 소량 생산" (2026.09.01)</a
+    ><br />
+    녹색경제신문,
+    <a
+      href="https://www.greened.kr/news/articleView.html?idxno=339781"
+      target="_blank"
+      >"SK하이닉스 '1c 공정, 수율·양산 성숙'…HBM4 이후 공정 경쟁 격화"
+      (2026.04.24)</a
+    ><br />
+    The Elec,
+    <a
+      href="https://www.thelec.net/news/articleView.html?idxno=10727"
+      target="_blank"
+      >"Micron's HBM4 Ramp-Up Progressing Smoothly, HBM4E Mass Production Set
+      for Next Year" (2026.05.25)</a
+    ><br />
+    딜사이트,
+    <a href="https://dealsite.co.kr/articles/167321" target="_blank"
+      >"[中 반도체 공세] D램 부족 틈탄 CXMT…생산능력으로 韓 추격"
+      (2026.08.18)</a
+    ><br />
+    뉴시스,
+    <a
+      href="https://www.newsis.com/view/NISX20260720_0003715407"
+      target="_blank"
+      >"D램 기술 2~3년 뒤진 中 창신메모리, 매출 719%↑…HBM 넘본다"
+      (2026.07.20)</a
+    ><br />
+    머니투데이,
+    <a
+      href="https://www.mt.co.kr/world/2026/07/27/2026072713222055420"
+      target="_blank"
+      >"데뷔 동시에 중국 시총 '1위'…5배 뛴 창신메모리, 이유 있는 폭등"
+      (2026.07.27)</a
+    ><br />
+    코리아헤럴드,
+    <a href="https://www.koreaherald.com/article/10668779" target="_blank"
+      >"중국 메모리 굴기? D램 격차는 오히려 더 벌어질 것" 심대용 동아대 교수
+      인터뷰 (2026.02.03)</a
+    ><br />
+    뉴스웍스,
+    <a
+      href="https://www.newsworks.co.kr/news/articleView.html?idxno=840689"
+      target="_blank"
+      >"턱밑까지 쫓아온 '메이드 인 차이나'…'5년 내 D램 장악' 경고"
+      (2026.05.14)</a
+    ><br />
+    디지털데일리,
+    <a
+      href="https://m.ddaily.co.kr/page/view/2013082519095565358"
+      target="_blank"
+      >"낸드플래시 업계, 16나노 공정 이후 3D 적층 기술 일제 적용"
+      (2013.08.25)</a
+    ><br />
+    삼성전자 반도체 뉴스룸,
+    <a
+      href="https://news.samsungsemiconductor.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-3%EC%B0%A8%EC%9B%90-%EC%88%98%EC%A7%81%EA%B5%AC%EC%A1%B0-%EB%82%B8%EB%93%9C3d-v-nand%ED%94%8C%EB%9E%98%EC%8B%9C-%EB%A9%94/"
+      target="_blank"
+      >"삼성전자, 세계 최초 3차원 수직구조 낸드(3D V-NAND)플래시 메모리 양산"
+      (2013.08.06)</a
+    ><br />
+    KIPOST,
+    <a
+      href="https://www.kipost.net/news/articleView.html?idxno=316201"
+      target="_blank"
+      >"CXMT, 3D D램 직행할수도...3D D램 전환 속도내야" (2024.01.31)</a
+    ><br />
+    아시아경제,
+    <a
+      href="https://www.asiae.co.kr/article/2024050209181673825"
+      target="_blank"
+      >"삼성전자 '2030년 3D D램 상용화…기술 초격차 속도'" (2024.05.02)</a
+    ><br />
+    더스탁,
+    <a
+      href="https://www.the-stock.kr/news/articleView.html?idxno=33096"
+      target="_blank"
+      >"삼성·SK하이닉스의 '3D D램' 로드맵…'수직 채널' 경쟁 막 올랐다"
+      (2026.08.06)</a
+    >
+  </p>
+</div>
+`,Cr=s({default:()=>wr}),wr=`<div class="post-meta">
   <meta name="post-id" content="9" />
   <meta name="post-title" content="혁신이 아니라 효율화" />
   <meta name="post-published" content="2026-05-11T19:50" />
@@ -2827,7 +3063,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     >
   </p>
 </div>
-`,Cr=s({default:()=>wr}),wr=`<div class="post-meta">
+`,Tr=s({default:()=>Er}),Er=`<div class="post-meta">
   <meta name="post-id" content="17" />
   <meta name="post-title" content="긴 계단 가장 높은 곳에서 맞던 밤바람" />
   <meta name="post-published" content="2026-06-27T23:37" />
@@ -2865,7 +3101,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     있었다.
   </p>
 </div>
-`,Tr=s({default:()=>Er}),Er=`<div class="post-meta">
+`,Dr=s({default:()=>Or}),Or=`<div class="post-meta">
   <meta name="post-id" content="8" />
   <meta name="post-title" content="삶은 역사적일 필요가 없다" />
   <meta name="post-published" content="2026-05-09T21:15" />
@@ -2920,7 +3156,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     세상에 남을 필요는 없다는 사실을 받아들이게 되었다.
   </p>
 </div>
-`,Dr=s({default:()=>Or}),Or=`<div class="post-meta">
+`,kr=s({default:()=>Ar}),Ar=`<div class="post-meta">
   <meta name="post-id" content="0" />
   <meta name="post-title" content="까만 우산" />
   <meta name="post-published" content="2025-05-10T18:41" />
@@ -2956,7 +3192,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     수 있는 사람은 많지 않겠지.
   </p>
 </div>
-`,kr=s({default:()=>Ar}),Ar=`<div class="post-meta">
+`,jr=s({default:()=>Mr}),Mr=`<div class="post-meta">
   <meta name="post-id" content="1" />
   <meta
     name="post-title"
@@ -3158,7 +3394,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     것으로 일단 사용하면서 후에 대안을 찾아보기로.
   </p>
 </div>
-`,jr=s({default:()=>Mr}),Mr=`<div class="post-meta">
+`,Nr=s({default:()=>Pr}),Pr=`<div class="post-meta">
   <meta name="post-id" content="28" />
   <meta
     name="post-title"
@@ -3375,7 +3611,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     됐다.
   </p>
 </div>
-`,Nr=s({default:()=>Pr}),Pr=`<div class="post-meta">
+`,Fr=s({default:()=>Ir}),Ir=`<div class="post-meta">
   <meta name="post-id" content="3" />
   <meta
     name="post-title"
@@ -3635,7 +3871,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
 		}
 	</code></pre>
 </div>
-`,Fr=s({default:()=>Ir}),Ir=`<div class="post-meta">
+`,Lr=s({default:()=>Rr}),Rr=`<div class="post-meta">
   <meta name="post-id" content="10" />
   <meta name="post-title" content="배당 9%의 속사정" />
   <meta name="post-published" content="2026-05-25T15:28" />
@@ -3712,7 +3948,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     기획재정부 2025년 세제개편안
   </p>
 </div>
-`,Lr=s({default:()=>Rr}),Rr=`<div class="post-meta">
+`,zr=s({default:()=>Br}),Br=`<div class="post-meta">
   <meta name="post-id" content="15" />
   <meta name="post-title" content="식히는 사업, 식지 않은 의문" />
   <meta name="post-published" content="2026-06-20T11:41" />
@@ -3822,7 +4058,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     ><br />
   </p>
 </div>
-`,zr=s({default:()=>Br}),Br=`<div class="post-meta">
+`,Vr=s({default:()=>Hr}),Hr=`<div class="post-meta">
   <meta name="post-id" content="18" />
   <meta name="post-title" content="사이버 위협에서 산업 데이터 플랫폼으로" />
   <meta name="post-published" content="2026-06-29T16:43" />
@@ -3906,7 +4142,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     신한투자증권 최승환, "바겐세일" (2026.04.09)
   </p>
 </div>
-`,Vr=s({default:()=>Hr}),Hr=`<div class="post-meta">
+`,Ur=s({default:()=>Wr}),Wr=`<div class="post-meta">
   <meta name="post-id" content="33" />
   <meta name="post-title" content="레일 위의 AI" />
   <meta name="post-published" content="2026-08-26T23:49" />
@@ -3971,7 +4207,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     ><br />
   </p>
 </div>
-`,Ur=s({default:()=>Wr}),Wr=`<div class="post-meta">
+`,Gr=s({default:()=>Kr}),Kr=`<div class="post-meta">
   <meta name="post-id" content="6" />
   <meta name="post-title" content="묵직한 실린더 라이너에 담긴 가벼운 멀티플" />
   <meta name="post-published" content="2026-04-25T19:10" />
@@ -4082,7 +4318,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     네이버 증권
   </p>
 </div>
-`,Gr=s({default:()=>Kr}),Kr=`<div class="post-meta">
+`,qr=s({default:()=>Jr}),Jr=`<div class="post-meta">
   <meta name="post-id" content="14" />
   <meta name="post-title" content="시간이 쓸어내린 먼지" />
   <meta name="post-published" content="2026-06-08T20:03" />
@@ -4148,7 +4384,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     마침내, 가브리엘은 에버딘의 삶 안으로 들어서게 된다.
   </p>
 </div>
-`,qr=s({default:()=>Jr}),Jr=`<div class="post-meta">
+`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
   <meta name="post-id" content="27" />
   <meta name="post-title" content="시간의 밀도" />
   <meta name="post-published" content="2026-07-17T05:53" />
@@ -4190,7 +4426,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     fill a life."
   </blockquote>
 </div>
-`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
+`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
   <meta name="post-id" content="31" />
   <meta name="post-title" content="빈 공간" />
   <meta name="post-published" content="2026-08-17T21:54" />
@@ -4223,7 +4459,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     "응 많아. 아주 많아."
   </blockquote>
 </div>
-`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
+`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
   <meta name="post-id" content="32" />
   <meta name="post-title" content="우아한 천박함" />
   <meta name="post-published" content="2026-08-19T22:50" />
@@ -4248,7 +4484,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     그녀는 총알 한 발을 머리에 맞고 군더더기 없이 죽는다. 마지막까지 깔끔하다.
   </p>
 </div>
-`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
+`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
   <meta name="post-id" content="23" />
   <meta name="post-title" content="새벽" />
   <meta name="post-published" content="2026-07-04T07:28" />
@@ -4273,7 +4509,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     흘러나오고 있었다. 미학적인 새벽.
   </p>
 </div>
-`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
+`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
   <meta name="post-id" content="24" />
   <meta name="post-title" content="손톱" />
   <meta name="post-published" content="2026-07-04T08:42" />
@@ -4291,7 +4527,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     모든 것이 좋아진다.
   </p>
 </div>
-`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
+`,ai=s({default:()=>oi}),oi=`<div class="post-meta">
   <meta name="post-id" content="25" />
   <meta name="post-title" content="흰 티" />
   <meta name="post-published" content="2026-07-05T12:32" />
@@ -4301,21 +4537,21 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
 <div class="post-content">
   <p>깨끗함과 세미 포멀함을 가진 흰색 티셔츠가 좋다.</p>
 </div>
-`;function ai(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function oi(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/9/index.html":xr,"../content/essays/culture/17/index.html":Cr,"../content/essays/culture/8/index.html":Tr,"../content/essays/daily/0/index.html":Dr,"../content/journals/development/1/index.html":kr,"../content/journals/development/28/index.html":jr,"../content/journals/development/3/index.html":Nr,"../content/journals/investment/10/index.html":Fr,"../content/journals/investment/15/index.html":Lr,"../content/journals/investment/18/index.html":zr,"../content/journals/investment/33/index.html":Vr,"../content/journals/investment/6/index.html":Ur,"../content/musings/culture/14/index.html":Gr,"../content/musings/culture/27/index.html":qr,"../content/musings/culture/31/index.html":Yr,"../content/musings/culture/32/index.html":Zr,"../content/musings/daily/23/index.html":$r,"../content/musings/daily/24/index.html":ti,"../content/musings/daily/25/index.html":ri}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=ai(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var si={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function ci(e,t=`/`){return e.map(e=>`
+`;function si(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function ci(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/35/index.html":xr,"../content/columns/investment/9/index.html":Cr,"../content/essays/culture/17/index.html":Tr,"../content/essays/culture/8/index.html":Dr,"../content/essays/daily/0/index.html":kr,"../content/journals/development/1/index.html":jr,"../content/journals/development/28/index.html":Nr,"../content/journals/development/3/index.html":Fr,"../content/journals/investment/10/index.html":Lr,"../content/journals/investment/15/index.html":zr,"../content/journals/investment/18/index.html":Vr,"../content/journals/investment/33/index.html":Ur,"../content/journals/investment/6/index.html":Gr,"../content/musings/culture/14/index.html":qr,"../content/musings/culture/27/index.html":Yr,"../content/musings/culture/31/index.html":Zr,"../content/musings/culture/32/index.html":$r,"../content/musings/daily/23/index.html":ti,"../content/musings/daily/24/index.html":ri,"../content/musings/daily/25/index.html":ai}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=si(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var li={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function ui(e,t=`/`){return e.map(e=>`
 				<div class="nav-category" data-category="${e.id}">
-					<h2 class="category-title">${li()} ${e.displayName}</h2>
+					<h2 class="category-title">${di()} ${e.displayName}</h2>
 					<ul class="board-list">
 						${e.boards.map(n=>`
 							<li>
 								<a href="${t}${e.id}/${n.id}/" class="board-link" data-category="${e.id}" data-board="${n.id}">
-									${ui()} ${n.displayName}
+									${fi()} ${n.displayName}
 								</a>
 							</li>
 						`).join(``)}
 					</ul>
 				</div>
-			`).join(``)}function li(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+			`).join(``)}function di(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
 		<polyline points="6 9 12 15 18 9"/>
-	</svg>`}function ui(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+	</svg>`}function fi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
 		<line x1="12" y1="4" x2="12" y2="20"/>
-	</svg>`}var di=1440*60*1e3;function fi(e=document,t=3){let n=Date.now(),r=t*di;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}si.common?.siteName;function pi(e){e.innerHTML=ci(si.navigation,si.build.siteBaseUrl)}var mi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${mi}`,`${mi}`;function hi(e,t,n,r){n.childElementCount===0&&pi(n)}function gi(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function _i(){let e=oi(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),hi(e,n,i,o),gi(e,o)}function vi(){Hn.highlightAll(),_i(),fi(document,si.common?.newBadgeDays)}function yi(){vi()}document.addEventListener(`DOMContentLoaded`,yi);
+	</svg>`}var pi=1440*60*1e3;function mi(e=document,t=3){let n=Date.now(),r=t*pi;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}li.common?.siteName;function hi(e){e.innerHTML=ui(li.navigation,li.build.siteBaseUrl)}var gi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${gi}`,`${gi}`;function _i(e,t,n,r){n.childElementCount===0&&hi(n)}function vi(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function yi(){let e=ci(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),_i(e,n,i,o),vi(e,o)}function bi(){Hn.highlightAll(),yi(),mi(document,li.common?.newBadgeDays)}function xi(){bi()}document.addEventListener(`DOMContentLoaded`,xi);

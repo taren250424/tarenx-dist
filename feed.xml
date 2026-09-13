@@ -5,10 +5,21 @@
   <link href="https://tarenx.com/" />
   <link href="https://tarenx.com/feed.xml" rel="self" />
   <id>https://tarenx.com/</id>
-  <updated>2026-08-31T13:00:00+09:00</updated>
+  <updated>2026-09-13T21:24:00+09:00</updated>
   <author>
     <name>taren250424</name>
   </author>
+  <entry>
+    <title>벽이 무너지는 때</title>
+    <link href="https://tarenx.com/columns/investment/35/" />
+    <id>https://tarenx.com/columns/investment/35/</id>
+    <published>2026-09-13T21:24:00+09:00</published>
+    <updated>2026-09-13T21:24:00+09:00</updated>
+    <summary>2026년 7월 27일, 창신메모리테크놀로지(CXMT)가 상하이증권거래소에 상장했다. 첫날 종가는 공모가보다 465.82% 높았다. CXMT는 우리 몫을 얼마나 가져갔을까. 그리고 어디까지 가져갈 수 있을까.</summary>
+    <category term="반도체" />
+    <category term="CXMT" />
+    <category term="창신메모리테크놀로지" />
+  </entry>
   <entry>
     <title>Windows 내장 기능만으로 내부망 파일 공유(SMB) 설정하기</title>
     <link href="https://tarenx.com/archives/development/34/" />
@@ -190,15 +201,5 @@
     <summary>트랜서핑은 자신의 운명을 말 그대로 골라잡는 방법이다. 중요한 것은 납득할 만한 설명이 아닌 현실과 얼마나 맞아떨어지느냐다. 공리들은 그 자체가 양자물리학의 최초의 기준점이기 때문에 증명될 수 없다. 우리는 오직 진리가 구체화되어 실현된 것이나 어떤 법칙만을 알 수 있을 뿐이다. 우리의...</summary>
     <category term="바딤 젤란드" />
     <category term="리얼리티 트랜서핑" />
-  </entry>
-  <entry>
-    <title>식히는 사업, 식지 않은 의문</title>
-    <link href="https://tarenx.com/journals/investment/15/" />
-    <id>https://tarenx.com/journals/investment/15/</id>
-    <published>2026-06-20T11:41:00+09:00</published>
-    <updated>2026-06-20T11:41:00+09:00</updated>
-    <summary>AFC(Air Fin Cooler)는 화공플랜트에서 나오는 고온의 유체를 물이 아닌 공기로 식히는 장치로써, 산업 용수 공급에 어려움이 있는 중동에서 주로 쓰인다.</summary>
-    <category term="주식" />
-    <category term="SNT에너지" />
   </entry>
 </feed>
