@@ -5,10 +5,20 @@
   <link href="https://tarenx.com/" />
   <link href="https://tarenx.com/feed.xml" rel="self" />
   <id>https://tarenx.com/</id>
-  <updated>2026-09-13T21:24:00+09:00</updated>
+  <updated>2026-09-19T21:46:00+09:00</updated>
   <author>
     <name>taren250424</name>
   </author>
+  <entry>
+    <title>장부는 국경을 넘지 못한다</title>
+    <link href="https://tarenx.com/journals/investment/36/" />
+    <id>https://tarenx.com/journals/investment/36/</id>
+    <published>2026-09-19T21:46:00+09:00</published>
+    <updated>2026-09-19T21:46:00+09:00</updated>
+    <summary>26년 2분기 네이버의 연결 매출은 3조 3,888억 원으로 전년 동기 대비 16.2% 늘었고, 영업이익은 5,203억 원으로 0.2% 줄었다. 26년 1분기부터 매출 구분이 바뀌어 기존 서치플랫폼·커머스·핀테크·콘텐츠·클라우드 다섯 갈래가 네이버 플랫폼(광고·서비스), 파이낸셜 플랫폼...</summary>
+    <category term="주식" />
+    <category term="네이버" />
+  </entry>
   <entry>
     <title>벽이 무너지는 때</title>
     <link href="https://tarenx.com/columns/investment/35/" />
@@ -191,15 +201,5 @@
     <summary>피아노가 연주하는 세 번의 블록 코드와 한 번의 아르페지오로 시작된다. 세 번의 앞선 블록 코드는 비장하고 단단하지만 뒤에 따라오는 한 번의 아르페지오는 슬프고 약하다. 이는 곡 중 깨진 심장의 여자가 되지 않겠다고 내내 다짐하던 여자의 심장이 끝내 깨져버린 것을 상징하는 것처럼 다가온...</summary>
     <category term="Beyonce" />
     <category term="Broken-Hearted Gril" />
-  </entry>
-  <entry>
-    <title>원하는 운명을 골라잡는 기술, 리얼리티 트랜서핑 정리</title>
-    <link href="https://tarenx.com/archives/growth/16/" />
-    <id>https://tarenx.com/archives/growth/16/</id>
-    <published>2026-06-23T21:54:00+09:00</published>
-    <updated>2026-06-23T21:54:00+09:00</updated>
-    <summary>트랜서핑은 자신의 운명을 말 그대로 골라잡는 방법이다. 중요한 것은 납득할 만한 설명이 아닌 현실과 얼마나 맞아떨어지느냐다. 공리들은 그 자체가 양자물리학의 최초의 기준점이기 때문에 증명될 수 없다. 우리는 오직 진리가 구체화되어 실현된 것이나 어떤 법칙만을 알 수 있을 뿐이다. 우리의...</summary>
-    <category term="바딤 젤란드" />
-    <category term="리얼리티 트랜서핑" />
   </entry>
 </feed>

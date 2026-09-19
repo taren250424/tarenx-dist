@@ -4208,6 +4208,148 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
   </p>
 </div>
 `,Gr=s({default:()=>Kr}),Kr=`<div class="post-meta">
+  <meta name="post-id" content="36" />
+  <meta name="post-title" content="장부는 국경을 넘지 못한다" />
+  <meta name="post-published" content="2026-09-19T21:46" />
+  <meta name="post-tags" content="주식, 네이버" />
+</div>
+
+<div class="post-content">
+  <p>
+    26년 2분기 네이버의 연결 매출은 3조 3,888억 원으로 전년 동기 대비 16.2%
+    늘었고, 영업이익은 5,203억 원으로 0.2% 줄었다. 26년 1분기부터 매출 구분이
+    바뀌어 기존 서치플랫폼·커머스·핀테크·콘텐츠·클라우드 다섯 갈래가 네이버
+    플랫폼<span class="post-sub">(광고·서비스)</span>, 파이낸셜 플랫폼<span
+      class="post-sub"
+      >(엔페이)</span
+    >, 글로벌 도전<span class="post-sub">(C2C·콘텐츠·엔터프라이즈)</span> 셋으로
+    묶였다.
+  </p>
+
+  <figure>
+    <img
+      src="/assets/journals/investment/36/revenue.svg"
+      alt="네이버 분기 매출 추이 — 네이버 플랫폼·파이낸셜 플랫폼·글로벌 도전"
+      width="800"
+    />
+    <figcaption>
+      출처: 네이버 IR 보도자료 (25년 수치는 공시 성장률로 역산)
+    </figcaption>
+  </figure>
+
+  <p>
+    사업보고서 기준 해외 매출은 25년 1조 7,640억 원으로 전체의 14.7%다. 네이버
+    플랫폼과 파이낸셜 플랫폼은 사실상 전량 국내에서 나오고, 글로벌 도전 안에도
+    국내 매출이 섞여 있다. 결국 매출 대부분이 내수다. 눈여겨볼 것은 그 내수가
+    단단하다는 점.
+  </p>
+
+  <p>
+    이미 깔아놓은 층이 있기 때문이다. 2분기 엔페이 결제액은 25조 2,000억 원으로
+    21.0% 늘었고, 스마트스토어 거래액은 15.5%, N배송 거래액은 76%
+    증가했다. 앱에서 산 고객의 약 80%가 멤버십으로 이어진다. 결제와 정산, 배송,
+    그리고 판매자 장부는 한번 깔리면 갈아 끼우는 비용이 크다.
+  </p>
+
+  <p>
+    그리고 받치는 것이 하나 더 있다. 한글 데이터와 그 위에 세운 하이퍼클로바X.
+    거기에 데이터센터까지 더하면 국내 유일의 풀스택이다. 최대 270MW를 받도록
+    설계된 '각 세종' 안에 서버실과 발전기까지 분리한 정부 전용 리전을 두자고
+    제안해 둔 상태이기도 하다.
+  </p>
+
+  <p>
+    이처럼 하방은 단단하지만, 이 해자는 국경을 넘지 못한다. 그래서 네이버의 해외
+    진출은 이미 깔려 있는 네트워크를 사는 방식으로 이루어지고 있다. 포시마크를
+    약 16억 달러, 우리 돈 2조 3,000억 원에 사들였고, 크림을 통해 일본 소다의
+    최대주주가 됐고, 스페인 왈라팝에는 25년 8월 6,045억 원을 더 넣어 경영권을
+    쥐었다.
+  </p>
+
+  <p>
+    사 온 네트워크 위에 네이버가 얹을 수 있는 것이 있을까. 국경을 넘어가는
+    조각은 그간 플랫폼을 운영해온 노하우 정도인데, 그 결과가 모이는 칸이 글로벌
+    도전이다. 크림·소다·포시마크·왈라팝의 C2C, 웹툰과 스노우의 콘텐츠,
+    네이버클라우드·라인웍스·랩스의 엔터프라이즈를 묶은 구분으로, 2분기에 분기
+    매출 1조 원을 처음 넘겼다.
+  </p>
+
+  <figure>
+    <img
+      src="/assets/journals/investment/36/global.svg"
+      alt="네이버 글로벌 도전 영역별 매출 — C2C·콘텐츠·엔터프라이즈"
+      width="800"
+    />
+    <figcaption>
+      출처: 네이버 IR 보도자료 및 컨퍼런스콜 (25년 수치와 C2C는 역산)
+    </figcaption>
+  </figure>
+
+  <p>
+    성장은 아직 한쪽에 몰려 있다. C2C가 74.9% 뛰는 동안 규모가 가장 큰
+    콘텐츠는 0.5% 느는 데 그쳤고, 엔터프라이즈는 21.3% 늘었어도 아직 1,537억
+    원이다. 여기에 얹힐 AI 팩토리는 27년 상반기에야 매출이 시작된다.
+  </p>
+
+  <p>
+    볼 수 있는 기간도 짧다. 글로벌 도전이라는 이름으로 묶인 것은 26년
+    1분기부터라 이제 2분기째. 사업 자체는 그보다 오래됐지만 그것도 길지는 않다.
+    글로벌 도전으로 묶인 것과는 별개로 그 사업 자체를 추적하는 것도 좋겠지만,
+    리서치가 힘들기도 하고 부문을 따로 만들었다는 것은 경영상 하나의 결심일 테니,
+    그 이후 데이터에 주목하는 편도 나쁘지 않다고 판단된다. 어느 쪽이든 노하우가
+    옮겨 붙었는지 가릴 만큼 쌓이지는 않았다.
+  </p>
+
+  <p>
+    26년 9월 17일 종가는 197,500원, 시가총액은 30조 원, PER은 15.33배다. 25년에
+    영업이익 2조 2,081억 원을 낸 회사이니 하방에 값을 매기는 것이라면 비싼
+    가격은 아니다. 다만 그 하방은 이미 다 치러진 값이다. 위로 붙을 값은 전부
+    글로벌 도전에서 나와야 하는데, 지금 거기서 성장을 낸 갈래는 하나뿐이고 기간은
+    두 분기다. 네이버를 들고 있을지 말지는 결국 이 한 칸을 얼마나 오래 지켜볼 수
+    있느냐의 문제로 정리된다.
+  </p>
+
+  <p class="post-ref">
+    * 참조 <br />
+    네이버,
+    <a
+      href="https://navercorp.com/media/pressReleasesDetail?seq=10034577"
+      target="_blank"
+      >"2026년 2분기 실적 보도자료" (2026.08.07)</a
+    ><br />
+    네이버 사업보고서(2025)<br />
+    네이버,
+    <a href="https://www.navercorp.com/investment/stock" target="_blank"
+      >주가정보 (2026.09.17 기준)</a
+    ><br />
+    디일렉,
+    <a
+      href="https://www.thelec.kr/news/articleView.html?idxno=55899"
+      target="_blank"
+      >"네이버, 올해 1분기 매출 3조2411억원…전년 대비 16.3% 성장"
+      (2026.04.30)</a
+    ><br />
+    아주경제,
+    <a href="https://www.ajunews.com/view/20221004114607575" target="_blank"
+      >"네이버, 북미 중고패션 플랫폼 '포쉬마크' 2조3000억원에 인수"
+      (2022.10.04)</a
+    ><br />
+    이데일리,
+    <a
+      href="https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04713366642264368"
+      target="_blank"
+      >"네이버, 스페인 개인간 거래 '왈라팝' 인수…6000억 투자" (2025.08.05)</a
+    ><br />
+    머니투데이,
+    <a
+      href="https://www.mt.co.kr/tech/2026/06/24/2026062414553777479"
+      target="_blank"
+      >"정부 전용 데이터센터 리전…네이버클라우드, 소버린AI 풀스택 전략"
+      (2026.06.24)</a
+    ><br />
+  </p>
+</div>
+`,qr=s({default:()=>Jr}),Jr=`<div class="post-meta">
   <meta name="post-id" content="6" />
   <meta name="post-title" content="묵직한 실린더 라이너에 담긴 가벼운 멀티플" />
   <meta name="post-published" content="2026-04-25T19:10" />
@@ -4318,7 +4460,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     네이버 증권
   </p>
 </div>
-`,qr=s({default:()=>Jr}),Jr=`<div class="post-meta">
+`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
   <meta name="post-id" content="14" />
   <meta name="post-title" content="시간이 쓸어내린 먼지" />
   <meta name="post-published" content="2026-06-08T20:03" />
@@ -4384,7 +4526,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     마침내, 가브리엘은 에버딘의 삶 안으로 들어서게 된다.
   </p>
 </div>
-`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
+`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
   <meta name="post-id" content="27" />
   <meta name="post-title" content="시간의 밀도" />
   <meta name="post-published" content="2026-07-17T05:53" />
@@ -4426,7 +4568,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     fill a life."
   </blockquote>
 </div>
-`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
+`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
   <meta name="post-id" content="31" />
   <meta name="post-title" content="빈 공간" />
   <meta name="post-published" content="2026-08-17T21:54" />
@@ -4459,7 +4601,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     "응 많아. 아주 많아."
   </blockquote>
 </div>
-`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
+`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
   <meta name="post-id" content="32" />
   <meta name="post-title" content="우아한 천박함" />
   <meta name="post-published" content="2026-08-19T22:50" />
@@ -4484,7 +4626,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     그녀는 총알 한 발을 머리에 맞고 군더더기 없이 죽는다. 마지막까지 깔끔하다.
   </p>
 </div>
-`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
+`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
   <meta name="post-id" content="23" />
   <meta name="post-title" content="새벽" />
   <meta name="post-published" content="2026-07-04T07:28" />
@@ -4509,7 +4651,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     흘러나오고 있었다. 미학적인 새벽.
   </p>
 </div>
-`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
+`,ai=s({default:()=>oi}),oi=`<div class="post-meta">
   <meta name="post-id" content="24" />
   <meta name="post-title" content="손톱" />
   <meta name="post-published" content="2026-07-04T08:42" />
@@ -4527,7 +4669,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     모든 것이 좋아진다.
   </p>
 </div>
-`,ai=s({default:()=>oi}),oi=`<div class="post-meta">
+`,si=s({default:()=>ci}),ci=`<div class="post-meta">
   <meta name="post-id" content="25" />
   <meta name="post-title" content="흰 티" />
   <meta name="post-published" content="2026-07-05T12:32" />
@@ -4537,21 +4679,21 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
 <div class="post-content">
   <p>깨끗함과 세미 포멀함을 가진 흰색 티셔츠가 좋다.</p>
 </div>
-`;function si(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function ci(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/35/index.html":xr,"../content/columns/investment/9/index.html":Cr,"../content/essays/culture/17/index.html":Tr,"../content/essays/culture/8/index.html":Dr,"../content/essays/daily/0/index.html":kr,"../content/journals/development/1/index.html":jr,"../content/journals/development/28/index.html":Nr,"../content/journals/development/3/index.html":Fr,"../content/journals/investment/10/index.html":Lr,"../content/journals/investment/15/index.html":zr,"../content/journals/investment/18/index.html":Vr,"../content/journals/investment/33/index.html":Ur,"../content/journals/investment/6/index.html":Gr,"../content/musings/culture/14/index.html":qr,"../content/musings/culture/27/index.html":Yr,"../content/musings/culture/31/index.html":Zr,"../content/musings/culture/32/index.html":$r,"../content/musings/daily/23/index.html":ti,"../content/musings/daily/24/index.html":ri,"../content/musings/daily/25/index.html":ai}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=si(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var li={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function ui(e,t=`/`){return e.map(e=>`
+`;function li(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function ui(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/35/index.html":xr,"../content/columns/investment/9/index.html":Cr,"../content/essays/culture/17/index.html":Tr,"../content/essays/culture/8/index.html":Dr,"../content/essays/daily/0/index.html":kr,"../content/journals/development/1/index.html":jr,"../content/journals/development/28/index.html":Nr,"../content/journals/development/3/index.html":Fr,"../content/journals/investment/10/index.html":Lr,"../content/journals/investment/15/index.html":zr,"../content/journals/investment/18/index.html":Vr,"../content/journals/investment/33/index.html":Ur,"../content/journals/investment/36/index.html":Gr,"../content/journals/investment/6/index.html":qr,"../content/musings/culture/14/index.html":Yr,"../content/musings/culture/27/index.html":Zr,"../content/musings/culture/31/index.html":$r,"../content/musings/culture/32/index.html":ti,"../content/musings/daily/23/index.html":ri,"../content/musings/daily/24/index.html":ai,"../content/musings/daily/25/index.html":si}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=li(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var di={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function fi(e,t=`/`){return e.map(e=>`
 				<div class="nav-category" data-category="${e.id}">
-					<h2 class="category-title">${di()} ${e.displayName}</h2>
+					<h2 class="category-title">${pi()} ${e.displayName}</h2>
 					<ul class="board-list">
 						${e.boards.map(n=>`
 							<li>
 								<a href="${t}${e.id}/${n.id}/" class="board-link" data-category="${e.id}" data-board="${n.id}">
-									${fi()} ${n.displayName}
+									${mi()} ${n.displayName}
 								</a>
 							</li>
 						`).join(``)}
 					</ul>
 				</div>
-			`).join(``)}function di(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+			`).join(``)}function pi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
 		<polyline points="6 9 12 15 18 9"/>
-	</svg>`}function fi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+	</svg>`}function mi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
 		<line x1="12" y1="4" x2="12" y2="20"/>
-	</svg>`}var pi=1440*60*1e3;function mi(e=document,t=3){let n=Date.now(),r=t*pi;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}li.common?.siteName;function hi(e){e.innerHTML=ui(li.navigation,li.build.siteBaseUrl)}var gi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${gi}`,`${gi}`;function _i(e,t,n,r){n.childElementCount===0&&hi(n)}function vi(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function yi(){let e=ci(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),_i(e,n,i,o),vi(e,o)}function bi(){Hn.highlightAll(),yi(),mi(document,li.common?.newBadgeDays)}function xi(){bi()}document.addEventListener(`DOMContentLoaded`,xi);
+	</svg>`}var hi=1440*60*1e3;function gi(e=document,t=3){let n=Date.now(),r=t*hi;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}di.common?.siteName;function _i(e){e.innerHTML=fi(di.navigation,di.build.siteBaseUrl)}var vi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${vi}`,`${vi}`;function yi(e,t,n,r){n.childElementCount===0&&_i(n)}function bi(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function xi(){let e=ui(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),yi(e,n,i,o),bi(e,o)}function Si(){Hn.highlightAll(),xi(),gi(document,di.common?.newBadgeDays)}function Ci(){Si()}document.addEventListener(`DOMContentLoaded`,Ci);
