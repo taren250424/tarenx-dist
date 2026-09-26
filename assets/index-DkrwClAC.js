@@ -4350,6 +4350,342 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
   </p>
 </div>
 `,qr=s({default:()=>Jr}),Jr=`<div class="post-meta">
+  <meta name="post-id" content="37" />
+  <meta name="post-title" content="다리를 빼고 바퀴만 세어 보면" />
+  <meta name="post-published" content="2026-09-26T15:43" />
+  <meta name="post-tags" content="주식, 현대차" />
+</div>
+
+<div class="post-content">
+  <!-- ref: https://www.fnnews.com/news/202609201835466731 -->
+  <p>
+    현대차는 26년 6월 1일 장중 783,000원을 찍고 9월 18일 365,000원에 마감했다.
+    석 달 반 만에 53% 빠졌고, 시가총액은 153조 원에서 74조 7,366억 원이 됐다.
+    KRX 자동차지수가 같은 9월에 7.6% 내린 것과 비교하면 업종 조정이라기보다
+    현대차 혼자 무언가를 토해낸 모양새다. 아마도 로봇 프리미엄을 토해냈겠지.
+  </p>
+
+  <!-- ref: https://www.hyundaimotorgroup.com/en/news/hyundai-motor-announces-2025-annual-and-q4-business-results -->
+  <!-- ref: https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-2026-first-quarter-earnings -->
+  <!-- ref: https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-2026-q2-earnings -->
+  <!-- ref: https://www.etoday.co.kr/news/view/2606717 -->
+  <p>
+    지금 가격에 로봇이 얼마나 남아 있는지부터 따져 본다. 자동차 장부는 이렇다.
+    25년 매출 186조 2,545억 원, 영업이익 11조 4,679억 원<span class="post-sub"
+      >(6.2%)</span
+    >, 순이익 10조 3,648억 원. 26년 들어 1분기 영업이익 2조 5,147억 원<span
+      class="post-sub"
+      >(5.5%)</span
+    >, 2분기 2조 8,509억 원<span class="post-sub">(5.8%)</span>으로 상반기 5조
+    3,656억 원이다. 매출은 분기 최대를 찍었지만 판매 대수는 6.9% 줄었고, 미국
+    관세가 분기마다 9천억 원 안팎을 떼어 갔다.
+  </p>
+
+  <!-- ref: https://www.hyundai.com/worldwide/en/company/ir/financial-information/quarterly-earnings -->
+  <figure>
+    <img
+      src="/assets/journals/investment/37/op.svg"
+      alt="현대차 분기 영업이익 추이 — 25년 1분기부터 26년 2분기"
+      width="800"
+    />
+    <figcaption>출처: 현대자동차 분기 경영실적 발표</figcaption>
+  </figure>
+
+  <!-- ref: https://public.com/stocks/tm/pe-ratio -->
+  <!-- ref: https://core.asiae.co.kr/article/2025021501342264991 -->
+  <p>
+    시가총액 74조 7천억 원을 25년 순이익 10조 3,648억 원으로 나누면 7.2배.
+    토요타가 8배 안팎에서 거래되니 이미 자동차 회사 값이다. PBR은 0.77배. 다만
+    현대차는 24년 말 PER 4.4배, PBR 0.5배로 거래된 이력이 있다는 사실을
+    기억하자.
+  </p>
+
+  <!-- ref: https://www.etoday.co.kr/news/view/2620953 -->
+  <!-- ref: https://daily.hankooki.com/news/articleView.html?idxno=1402002 -->
+  <p>
+    이제 로봇. 보스턴다이내믹스는 25년 매출 1,501억 원에 순손실 5,284억 원, 5년
+    누적 순손실 1조 7,558억 원. 26년 상반기도 매출 813억 원에 순손실 3,888억 원.
+    매출 1원에 5원을 태운다.
+  </p>
+
+  <!-- ref: https://247wallst.com/investing/2026/09/14/goldman-sachs-just-supercharged-its-humanoid-robot-prediction-5x-to-6-5-million-by-2035/ -->
+  <!-- ref: https://www.mt.co.kr/industry/2026/09/22/2026092209264070827 -->
+  <!-- ref: https://www.etoday.co.kr/news/view/2620953 -->
+  <!-- ref: https://www.fnnews.com/news/202605121016061298 -->
+  <figure>
+    <table class="post-table post-table-kv">
+      <tbody>
+        <tr>
+          <th colspan="2">파이: 전 세계 연간</th>
+        </tr>
+        <tr>
+          <td>휴머노이드 출하, 30년</td>
+          <td>89만 대</td>
+        </tr>
+        <tr>
+          <td>휴머노이드 출하, 35년</td>
+          <td>650만 대</td>
+        </tr>
+        <tr>
+          <td>휴머노이드 시장 규모, 35년</td>
+          <td>1,380억 달러</td>
+        </tr>
+        <tr>
+          <td>대당 평균 단가, 35년<span class="post-sub">(역산)</span></td>
+          <td>2만 1천 달러</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <th colspan="2">현대차 계획</th>
+        </tr>
+        <tr>
+          <td>아틀라스 생산능력, 미국</td>
+          <td>연 3만 대<span class="post-sub">(30년 시장의 3.4%)</span></td>
+        </tr>
+        <tr>
+          <td>현대차·기아 공장 배치, 수년 누적</td>
+          <td>2만 5천 대</td>
+        </tr>
+        <tr>
+          <td>증권가 단가 가정, 28년</td>
+          <td>
+            13만 4천 달러<span class="post-sub">(35년 시장 평균의 6배)</span>
+          </td>
+        </tr>
+        <tr>
+          <td>증권가 매출 추정, 30년</td>
+          <td>4조 7,210억 원</td>
+        </tr>
+        <tr>
+          <td>현대차 실질 지분</td>
+          <td>28%</td>
+        </tr>
+      </tbody>
+    </table>
+    <figcaption>
+      출처: 골드만삭스(2026.09), 머니투데이, 이투데이, 파이낸셜뉴스
+    </figcaption>
+  </figure>
+
+  <!-- ref: https://www.mt.co.kr/industry/2026/09/22/2026092209264070827 -->
+  <!-- ref: https://www.etoday.co.kr/news/view/2620953 -->
+  <p>
+    시간표는 수년 안에 2만 5천 대 배치, 30년 조립 확대다. IBK의 4조 7천억 원은
+    자기 그룹에 배치할 물량 포함 3만 대를 시장 단가의 6배에 판 매출이다.
+  </p>
+
+  <!-- ref: https://multiples.vc/public-comps/fanuc-valuation-multiples -->
+  <!-- ref: https://www.etoday.co.kr/news/view/2620953 -->
+  <!-- ref: https://www.fnnews.com/news/202605121016061298 -->
+  <p>
+    후하게 계산해 보자. 30년 매출 4조 7천억 원이 그대로 나오고, 지금 적자인
+    회사가 그때는 순이익률 10%를 낸다고 가정하면 순이익 4,700억 원이다. 여기에
+    화낙이 지금 받는 멀티플 30배를 준다. 회사 가치 14조 원. 현대차 지분 28%를
+    곱하면 4조 원. 현대차 시가총액의 5%다. 주식 수로 나누면 한 주에 2만 원.
+    로봇이 현대차 주가에 얹을 수 있는 값은 많이 쳐도 이 정도다. 36만 원짜리
+    주식에서 로봇 값은 2만 원이고, 나머지 34만 원은 자동차 값이라는 뜻이다.
+    현대차는 로봇 회사의 지분 28%를 가진 자동차 회사다.
+  </p>
+
+  <p>자율주행은 어떨까.</p>
+
+  <!-- ref: https://www.goldmansachs.com/insights/articles/robotaxis-to-become-a-400-billion-dollar-market-in-2035 -->
+  <!-- ref: https://www.g-enews.com/article/Global-Biz/2026/02/2026021908522983259a1f309431_1 -->
+  <!-- ref: https://www.kirkland.com/news/press-release/2024/05/kirkland-advises-hyundai-motor-group-on-acquisition-of-majority-interest-in-motional -->
+  <!-- ref: https://dealsite.co.kr/articles/167962 -->
+  <figure>
+    <table class="post-table post-table-kv">
+      <tbody>
+        <tr>
+          <th colspan="2">파이: 전 세계</th>
+        </tr>
+        <tr>
+          <td>로보택시 운행 대수, 30년</td>
+          <td>100만 대</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <th colspan="2">현대차 계획</th>
+        </tr>
+        <tr>
+          <td>웨이모에 아이오닉5 공급<span class="post-sub">(보도)</span></td>
+          <td>5만 대<span class="post-sub">(30년 운행 대수의 5%)</span></td>
+        </tr>
+        <tr>
+          <td>공급 매출</td>
+          <td>25억 달러</td>
+        </tr>
+        <tr>
+          <td>모셔널 기업가치, 24년</td>
+          <td>40억 달러</td>
+        </tr>
+        <tr>
+          <td>현대차 지분, 26년</td>
+          <td>45%</td>
+        </tr>
+      </tbody>
+    </table>
+    <figcaption>
+      출처: 골드만삭스, 글로벌이코노믹, 커클랜드 앤드 엘리스, 딜사이트
+    </figcaption>
+  </figure>
+
+  <!-- ref: https://www.mt.co.kr/industry/2026/09/16/2026091510030438457 -->
+  <p>
+    계산해 보자. 모셔널이 24년 값 40억 달러를 그대로 지켰을 경우 현대차 지분
+    45%면 18억 달러, 우리 돈 2조 4천억 원. 현대차 시가총액의 3%, 한 주에 1만 2천
+    원이다. 그 값이 두 배가 돼도 2만 4천 원. 웨이모 쪽은 계산이 더 짧다. 5만 대
+    25억 달러는 매출 3조 4천억 원이고, 현대차 영업이익률 6%를 곱하면 2천억 원
+    남짓이 여러 해에 나뉘어 들어온다. 웨이모는 그 사이 주당 50만 건을 무인으로
+    태운다. 자율주행에서 현대차가 확실히 쥔 카드는 차를 만들어 파는 능력이다.
+    그것은 다시 자동차 회사의 일이다.
+  </p>
+
+  <!-- ref: https://www.etoday.co.kr/news/view/2618445 -->
+  <p>
+    그러면 자동차 회사로서 멀티플은 몇이 적당할까. 8월 26일 인베스터 데이에서
+    회사는 총주주환원율 35% 이상, 최소 배당 1만 원, 보유 자사주 8천억 원 전량
+    소각, 30년 영업이익률 9% 이상을 내놨다. 영업이익률 9%는 하한선에는 넣지 않고
+    환원 정책만 남기자.
+  </p>
+
+  <p>
+    어쨌든 토요타와 같은 8배는 높아 보인다. 6배 정도면 어떨까. 순이익 10조 원에
+    6배면 60조 원, 주당 29만 원이다. PBR로 보면 0.6배가 28만 4천 원. 28만 원이면
+    약속한 최소 배당 1만 원으로 수익률 3.6%가 된다.
+  </p>
+
+  <p>
+    26년 9월 18일 종가 365,000원은 그보다 7만 원 남짓 위다. 하한선은 28만 원
+    안팎으로 본다. 그 아래는 24년 말처럼 PER 4배대, PBR 0.5배대로 돌아가는
+    경우인데, 환원 정책이 지켜지는 한 거기까지 가려면 이익 자체가 무너져야 한다.
+    결국 현대차를 볼 때 봐야 할 것은 아틀라스가 아니라 영업이익이 지켜지는지다.
+    다리는 빼고 바퀴만 세는 셈이 맞다.
+  </p>
+
+  <p class="post-ref">
+    * 참조 <br />
+    현대자동차,
+    <a
+      href="https://www.hyundaimotorgroup.com/en/news/hyundai-motor-announces-2025-annual-and-q4-business-results"
+      target="_blank"
+      >"2025년 경영실적 발표" (2026.01)</a
+    ><br />
+    현대자동차,
+    <a
+      href="https://www.hyundai.com/worldwide/en/company/ir/financial-information/quarterly-earnings"
+      target="_blank"
+      >IR 분기실적 (2025년 1~3분기)</a
+    ><br />
+    현대자동차,
+    <a
+      href="https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-2026-first-quarter-earnings"
+      target="_blank"
+      >"2026년 1분기 경영실적 발표" (2026.04.23)</a
+    ><br />
+    현대자동차,
+    <a
+      href="https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-2026-q2-earnings"
+      target="_blank"
+      >"2026년 2분기 경영실적 발표" (2026.07.23)</a
+    ><br />
+    Public.com,
+    <a href="https://public.com/stocks/tm/pe-ratio" target="_blank"
+      >"Toyota (TM) P/E ratio" (2026.09.24 기준)</a
+    ><br />
+    파이낸셜뉴스,
+    <a href="https://www.fnnews.com/news/202609201835466731" target="_blank"
+      >"9월 자동차株 일제히 후진… 현대차는 석달새 시총 '반토막'" (2026.09.20)</a
+    ><br />
+    파이낸셜뉴스,
+    <a href="https://www.fnnews.com/news/202605121016061298" target="_blank"
+      >"현대차 6%대 급등…로봇 투자심리에 '들썩'" (2026.05.12)</a
+    ><br />
+    데일리한국,
+    <a
+      href="https://daily.hankooki.com/news/articleView.html?idxno=1402002"
+      target="_blank"
+      >"보스턴다이나믹스, '3만대 양산' 납기 맞출까…상반기 순손실 3888억"
+      (2026.09.02)</a
+    ><br />
+    이투데이,
+    <a href="https://www.etoday.co.kr/news/view/2606717" target="_blank"
+      >"[컨콜] 현대차 '2분기 美 관세 비용 9000억원…하반기 손실 폭 줄어들 것'"
+      (2026.07.23)</a
+    ><br />
+    이투데이,
+    <a href="https://www.etoday.co.kr/news/view/2620953" target="_blank"
+      >"'아틀라스'에 가려진 자본의 셈법…보스턴다이내믹스, 몸값 뛸수록 복잡해지는
+      현대차" (2026.09.12)</a
+    ><br />
+    이투데이,
+    <a href="https://www.etoday.co.kr/news/view/2618445" target="_blank"
+      >"현대차, 8000억 규모 자사주 전량 소각…2030년 영업이익률 9% 이상"
+      (2026.08.26)</a
+    ><br />
+    머니투데이,
+    <a
+      href="https://www.mt.co.kr/industry/2026/09/22/2026092209264070827"
+      target="_blank"
+      >"보스턴다이나믹스 아틀라스 훈련장 가동…내년에는 규모 10배로 확장"
+      (2026.09.22)</a
+    ><br />
+    24/7 Wall St.,
+    <a
+      href="https://247wallst.com/investing/2026/09/14/goldman-sachs-just-supercharged-its-humanoid-robot-prediction-5x-to-6-5-million-by-2035/"
+      target="_blank"
+      >"Goldman Sachs Just Supercharged Its Humanoid Robot Prediction 5X to 6.5
+      Million by 2035" (2026.09.14)</a
+    ><br />
+    머니투데이,
+    <a
+      href="https://www.mt.co.kr/industry/2026/09/16/2026091510030438457"
+      target="_blank"
+      >"자회사는 웨이모와 경쟁, 본사는 車 판매…현대차만 가능한 로보택시
+      '투트랙'" (2026.09.16)</a
+    ><br />
+    Goldman Sachs,
+    <a
+      href="https://www.goldmansachs.com/insights/articles/robotaxis-to-become-a-400-billion-dollar-market-in-2035"
+      target="_blank"
+      >"Robotaxis Are Forecast to Become a $400 Billion Market in 2035"
+      (2026.04.30)</a
+    ><br />
+    Kirkland &amp; Ellis,
+    <a
+      href="https://www.kirkland.com/news/press-release/2024/05/kirkland-advises-hyundai-motor-group-on-acquisition-of-majority-interest-in-motional"
+      target="_blank"
+      >"Kirkland Advises Hyundai Motor Group on Acquisition of Majority Interest
+      in Motional" (2024.05.08)</a
+    ><br />
+    딜사이트,
+    <a href="https://dealsite.co.kr/articles/167962" target="_blank"
+      >"현대차 지분 투자 모셔널, 로보택시 상용화 임박" (2026.08.31)</a
+    ><br />
+    글로벌이코노믹,
+    <a
+      href="https://www.g-enews.com/article/Global-Biz/2026/02/2026021908522983259a1f309431_1"
+      target="_blank"
+      >"웨이모, 현대 아이오닉5 5만대 구매 추진…25억달러 규모 로보택시 확대"
+      (2026.02.19)</a
+    ><br />
+    아시아경제,
+    <a
+      href="https://core.asiae.co.kr/article/2025021501342264991"
+      target="_blank"
+      >"역대급 실적인데 주가는 왜?…시장에서 보는 현대차" (2025.02.15)</a
+    ><br />
+    Multiples.vc,
+    <a
+      href="https://multiples.vc/public-comps/fanuc-valuation-multiples"
+      target="_blank"
+      >"Fanuc valuation multiples" (2026.09.26 기준)</a
+    ><br />
+  </p>
+</div>
+`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
   <meta name="post-id" content="6" />
   <meta name="post-title" content="묵직한 실린더 라이너에 담긴 가벼운 멀티플" />
   <meta name="post-published" content="2026-04-25T19:10" />
@@ -4460,7 +4796,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     네이버 증권
   </p>
 </div>
-`,Yr=s({default:()=>Xr}),Xr=`<div class="post-meta">
+`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
   <meta name="post-id" content="14" />
   <meta name="post-title" content="시간이 쓸어내린 먼지" />
   <meta name="post-published" content="2026-06-08T20:03" />
@@ -4526,7 +4862,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     마침내, 가브리엘은 에버딘의 삶 안으로 들어서게 된다.
   </p>
 </div>
-`,Zr=s({default:()=>Qr}),Qr=`<div class="post-meta">
+`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
   <meta name="post-id" content="27" />
   <meta name="post-title" content="시간의 밀도" />
   <meta name="post-published" content="2026-07-17T05:53" />
@@ -4568,7 +4904,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     fill a life."
   </blockquote>
 </div>
-`,$r=s({default:()=>ei}),ei=`<div class="post-meta">
+`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
   <meta name="post-id" content="31" />
   <meta name="post-title" content="빈 공간" />
   <meta name="post-published" content="2026-08-17T21:54" />
@@ -4601,7 +4937,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     "응 많아. 아주 많아."
   </blockquote>
 </div>
-`,ti=s({default:()=>ni}),ni=`<div class="post-meta">
+`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
   <meta name="post-id" content="32" />
   <meta name="post-title" content="우아한 천박함" />
   <meta name="post-published" content="2026-08-19T22:50" />
@@ -4626,7 +4962,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     그녀는 총알 한 발을 머리에 맞고 군더더기 없이 죽는다. 마지막까지 깔끔하다.
   </p>
 </div>
-`,ri=s({default:()=>ii}),ii=`<div class="post-meta">
+`,ai=s({default:()=>oi}),oi=`<div class="post-meta">
   <meta name="post-id" content="23" />
   <meta name="post-title" content="새벽" />
   <meta name="post-published" content="2026-07-04T07:28" />
@@ -4651,7 +4987,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     흘러나오고 있었다. 미학적인 새벽.
   </p>
 </div>
-`,ai=s({default:()=>oi}),oi=`<div class="post-meta">
+`,si=s({default:()=>ci}),ci=`<div class="post-meta">
   <meta name="post-id" content="24" />
   <meta name="post-title" content="손톱" />
   <meta name="post-published" content="2026-07-04T08:42" />
@@ -4669,7 +5005,7 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
     모든 것이 좋아진다.
   </p>
 </div>
-`,si=s({default:()=>ci}),ci=`<div class="post-meta">
+`,li=s({default:()=>ui}),ui=`<div class="post-meta">
   <meta name="post-id" content="25" />
   <meta name="post-title" content="흰 티" />
   <meta name="post-published" content="2026-07-05T12:32" />
@@ -4679,21 +5015,21 @@ Get-NetFirewallRule -DisplayGroup "파일 및 프린터 공유" |
 <div class="post-content">
   <p>깨끗함과 세미 포멀함을 가진 흰색 티셔츠가 좋다.</p>
 </div>
-`;function li(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function ui(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/35/index.html":xr,"../content/columns/investment/9/index.html":Cr,"../content/essays/culture/17/index.html":Tr,"../content/essays/culture/8/index.html":Dr,"../content/essays/daily/0/index.html":kr,"../content/journals/development/1/index.html":jr,"../content/journals/development/28/index.html":Nr,"../content/journals/development/3/index.html":Fr,"../content/journals/investment/10/index.html":Lr,"../content/journals/investment/15/index.html":zr,"../content/journals/investment/18/index.html":Vr,"../content/journals/investment/33/index.html":Ur,"../content/journals/investment/36/index.html":Gr,"../content/journals/investment/6/index.html":qr,"../content/musings/culture/14/index.html":Yr,"../content/musings/culture/27/index.html":Zr,"../content/musings/culture/31/index.html":$r,"../content/musings/culture/32/index.html":ti,"../content/musings/daily/23/index.html":ri,"../content/musings/daily/24/index.html":ai,"../content/musings/daily/25/index.html":si}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=li(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var di={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function fi(e,t=`/`){return e.map(e=>`
+`;function di(e){let t=e.match(/<div class="post-meta">([\s\S]*?)<\/div>/i);if(!t)return null;let n=t[1],r={};return(n.match(/<meta[\s\S]*?>/gi)||[]).forEach(e=>{let t=e.match(/name="([^"]*)"/i),n=e.match(/content="([^"]*)"/i);if(t&&n){let e=t[1],i=n[1];switch(e){case`post-id`:r.id=parseInt(i,10);break;case`post-title`:r.title=i;break;case`post-published`:r.published=i;break;case`post-tags`:r.tags=i?i.split(`,`).map(e=>e.trim()).filter(Boolean):[];break}}}),r}function fi(){let e=Object.assign({"../content/archives/development/19/index.html":Un,"../content/archives/development/20/index.html":Gn,"../content/archives/development/21/index.html":qn,"../content/archives/development/22/index.html":Yn,"../content/archives/development/26/index.html":Zn,"../content/archives/development/34/index.html":$n,"../content/archives/development/4/index.html":tr,"../content/archives/growth/12/index.html":rr,"../content/archives/growth/16/index.html":ar,"../content/archives/growth/7/index.html":sr,"../content/archives/investment/5/index.html":lr,"../content/columns/culture/11/index.html":dr,"../content/columns/culture/2/index.html":pr,"../content/columns/culture/30/index.html":hr,"../content/columns/investment/13/index.html":_r,"../content/columns/investment/29/index.html":yr,"../content/columns/investment/35/index.html":xr,"../content/columns/investment/9/index.html":Cr,"../content/essays/culture/17/index.html":Tr,"../content/essays/culture/8/index.html":Dr,"../content/essays/daily/0/index.html":kr,"../content/journals/development/1/index.html":jr,"../content/journals/development/28/index.html":Nr,"../content/journals/development/3/index.html":Fr,"../content/journals/investment/10/index.html":Lr,"../content/journals/investment/15/index.html":zr,"../content/journals/investment/18/index.html":Vr,"../content/journals/investment/33/index.html":Ur,"../content/journals/investment/36/index.html":Gr,"../content/journals/investment/37/index.html":qr,"../content/journals/investment/6/index.html":Yr,"../content/musings/culture/14/index.html":Zr,"../content/musings/culture/27/index.html":$r,"../content/musings/culture/31/index.html":ti,"../content/musings/culture/32/index.html":ri,"../content/musings/daily/23/index.html":ai,"../content/musings/daily/24/index.html":si,"../content/musings/daily/25/index.html":li}),t={};return Object.entries(e).forEach(([e,n])=>{let r=typeof n==`string`?n:n.default;if(typeof r!=`string`)return;let i=di(r);if(!i||i.id===void 0)return;let a=e.split(`/`),o=a[a.length-4],s=a[a.length-3];o&&s&&o!==`..`&&o!==`content`&&(t[o]||(t[o]={}),t[o][s]||(t[o][s]=[]),t[o][s].push({...i,categoryId:o,boardId:s}))}),Object.values(t).forEach(e=>{Object.values(e).forEach(e=>{e.sort((e,t)=>new Date(t.published).getTime()-new Date(e.published).getTime())})}),t}var pi={common:{siteName:`닫힌 파편`,siteDescription:`흩어진 생각을 파편으로 닫아 남기는 기록.`,timezone:`+09:00`,author:`taren250424`,itemsPerBoardPage:10,itemsPerPostBottomPage:5,newBadgeDays:7},navigation:[{id:`columns`,displayName:`칼럼`,boards:[{id:`investment`,displayName:`투자`},{id:`culture`,displayName:`문화`}]},{id:`essays`,displayName:`에세이`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`musings`,displayName:`단상`,boards:[{id:`culture`,displayName:`문화`},{id:`daily`,displayName:`일상`}]},{id:`journals`,displayName:`저널`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`}]},{id:`archives`,displayName:`아카이브`,boards:[{id:`investment`,displayName:`투자`},{id:`development`,displayName:`개발`},{id:`growth`,displayName:`자기계발`}]}],build:{siteOriginUrl:`https://tarenx.com`,siteBaseUrl:`/`,assetBaseUrl:`https://assets.tarenx.com/`}};function mi(e,t=`/`){return e.map(e=>`
 				<div class="nav-category" data-category="${e.id}">
-					<h2 class="category-title">${pi()} ${e.displayName}</h2>
+					<h2 class="category-title">${hi()} ${e.displayName}</h2>
 					<ul class="board-list">
 						${e.boards.map(n=>`
 							<li>
 								<a href="${t}${e.id}/${n.id}/" class="board-link" data-category="${e.id}" data-board="${n.id}">
-									${mi()} ${n.displayName}
+									${gi()} ${n.displayName}
 								</a>
 							</li>
 						`).join(``)}
 					</ul>
 				</div>
-			`).join(``)}function pi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+			`).join(``)}function hi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
 		<polyline points="6 9 12 15 18 9"/>
-	</svg>`}function mi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+	</svg>`}function gi(){return`<svg class="icon-inline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
 		<line x1="12" y1="4" x2="12" y2="20"/>
-	</svg>`}var hi=1440*60*1e3;function gi(e=document,t=3){let n=Date.now(),r=t*hi;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}di.common?.siteName;function _i(e){e.innerHTML=fi(di.navigation,di.build.siteBaseUrl)}var vi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${vi}`,`${vi}`;function yi(e,t,n,r){n.childElementCount===0&&_i(n)}function bi(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function xi(){let e=ui(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),yi(e,n,i,o),bi(e,o)}function Si(){Hn.highlightAll(),xi(),gi(document,di.common?.newBadgeDays)}function Ci(){Si()}document.addEventListener(`DOMContentLoaded`,Ci);
+	</svg>`}var _i=1440*60*1e3;function vi(e=document,t=3){let n=Date.now(),r=t*_i;e.querySelectorAll(`time.post-datetime[datetime]`).forEach(e=>{let t=new Date(e.getAttribute(`datetime`)).getTime();if(Number.isNaN(t))return;let i=n-t;if(i<0||i>r)return;let a=e.closest(`li, .post-header, article`),o=a?.querySelector(`.post-title`);!o||a.querySelector(`.new-badge`)||o.insertAdjacentHTML(`beforeend`,` <span class="new-badge" aria-label="새 글">NEW</span>`)})}pi.common?.siteName;function yi(e){e.innerHTML=mi(pi.navigation,pi.build.siteBaseUrl)}var bi=`<!--email_off-->taren250424@gmail.com<!--email_on-->`;`${bi}`,`${bi}`;function xi(e,t,n,r){n.childElementCount===0&&yi(n)}function Si(e,t){t.addEventListener(`click`,e=>{let t=e.target.closest(`.post-bottom .page-link`);if(t){e.preventDefault();let n=t.dataset.targetPage;if(!n)return;let r=t.closest(`.post-bottom`);if(!r)return;r.querySelectorAll(`.post-list[data-page]`).forEach(e=>{e.style.display=`none`});let i=r.querySelector(`.post-list[data-page="${n}"]`);i&&(i.style.display=``),r.querySelectorAll(`.pagination .page-link`).forEach(e=>e.classList.remove(`active`)),t.classList.add(`active`)}})}function Ci(){let e=fi(),t=document.querySelector(`main`),n=t.querySelector(`#main-nav`),r=t.querySelector(`#main-section`),i=n.querySelector(`#content-tree`),a=r.querySelector(`#main-nav-toggle`),o=r.querySelector(`#content-container`);a.addEventListener(`click`,()=>{let e=t.classList.contains(`nav-closed`);t.classList.toggle(`nav-closed`,!e);try{sessionStorage.setItem(`nav-open`,e?`1`:`0`)}catch{}}),xi(e,n,i,o),Si(e,o)}function wi(){Hn.highlightAll(),Ci(),vi(document,pi.common?.newBadgeDays)}function Ti(){wi()}document.addEventListener(`DOMContentLoaded`,Ti);
